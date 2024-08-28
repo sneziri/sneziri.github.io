@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Innen design
 subtitle: Website Design
 layout: default
 modal-id: 3
