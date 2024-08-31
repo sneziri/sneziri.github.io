@@ -1,8 +1,8 @@
 main:
-  - name: Home
+  - name: Startseite
     url: /
     weight: 1
-  - name: Services
+  - name: Dienstleistungen
     url: /services/
     weight: 1
     child:
@@ -18,7 +18,7 @@ main:
         url: /services/seo/
       - name: "Software Engineering"
         url: /services/software-engineering/
-  - name: Projects
+  - name: Referenzen
     url: /projects/
     weight: 2
     child:
@@ -33,17 +33,17 @@ main:
   - name: Blog
     url: /blog/
     weight: 4
-  - name: About
+  - name: Über uns
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+  - name: Kontakt
+    url: /contact/
     weight: 6
 footer_primary:
   - name: Home
     url: /
     weight: 1
-  - name: Services
+  - name: Unsere Dienstleistungen
     url: /services/
     weight: 2
   - name: Projects
@@ -56,10 +56,10 @@ footer_secondary:
   - name: Blog
     url: /blog/
     weight: 1
-  - name: About
+  - name: Über uns
     url: /about/
     weight: 2
-  - name: Contact
+  - name: Kontakt
     url: /contact/
     weight: 3
 footer_tertiary:
@@ -69,9 +69,6 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/

@@ -44,7 +44,7 @@ intro:
   buttons:
     enabled: false
     list:
-      - text: "About Us"
+      - text: "Über uns"
         url: "/about/"
         external: false
         fa_icon: false

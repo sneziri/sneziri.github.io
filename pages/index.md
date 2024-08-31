@@ -19,23 +19,15 @@ hero:
   fullscreen_desktop: false
   height: "660px"
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large # "small", "normal", "large"
-        outline: false
-        style: "light" # "light", "dark", "primary"
-      - text: "Documentation"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
-        external: true
-        fa_icon: false
+      - text: "Kontakt aufnehmen"
+        url: "/contact"
+        external: false
+        fa_icon: ""
         size: large
-        outline: true
-        style: "light"
-
+        outline: false
+        style: "primary"
 services:
   enabled: true
   heading: "Dienste"
@@ -66,7 +58,7 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "About Us"
+      - text: "Über uns"
         url: "/about"
         external: false
         fa_icon: ""
