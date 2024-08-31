@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Malbun Design GmbH"
+description: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an. Vertrauen Sie auf unsere Präzision und Qualität für Ihr Bauprojekt!"
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Malbun Design GmbH - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Malbun Design"
+  sub_heading: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an. Vertrauen Sie auf unsere Präzision und Qualität für Ihr Bauprojekt!"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -38,7 +38,7 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Services"
+  heading: "Dienste"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
