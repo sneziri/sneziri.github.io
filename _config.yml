@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: https://www.malbun-design.ch
+url: www.malbun-design.ch
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
