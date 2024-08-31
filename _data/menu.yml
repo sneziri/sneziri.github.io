@@ -6,17 +6,17 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
+      - name: "Innenputzarbeiten"
         url: /services/web-development/
-      - name: "UX"
+      - name: "Außenputzarbeiten"
         url: /services/user-experience/
-      - name: "Branding"
+      - name: "Trockenbau"
         url: /services/branding/
-      - name: "Web Design"
+      - name: "Deckenkonstruktion"
         url: /services/web-design/
-      - name: "SEO"
+      - name: "Neu und Umbauten"
         url: /services/seo/
-      - name: "Software Engineering"
+      - name: "Sanierungsarbeiten"
         url: /services/software-engineering/
   - name: Referenzen
     url: /projects/

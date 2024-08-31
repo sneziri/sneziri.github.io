@@ -8,7 +8,7 @@ meta_title: Malbun Design GmbH - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Malbun Design"
+  heading: "Malbun Design GmbH"
   sub_heading: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an. Vertrauen Sie auf unsere Präzision und Qualität für Ihr Bauprojekt!"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
