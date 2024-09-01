@@ -1,22 +1,23 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
-date: 2018-11-28T15:15:34+10:00
-weight: 2
+title: "Trockenbau"
+description: "The expression of a brand including its name, trademark, and visual appearance."
+date: 2019-10-03
+weight: 3
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+fa_icon: false
+icon: "assets/images/icons/icons8-color-palette-100.png"
+thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
+image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "Trockenbau"
+  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image_blend_mode: false" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/service-3.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

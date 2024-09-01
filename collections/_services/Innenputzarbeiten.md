@@ -1,23 +1,23 @@
 ---
-title: "Web Development"
+title: "Innenputzarbeiten"
 description: "Our experienced software engineers develop websites and desktop applications"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/icons8-source-code-100.png"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
-image: "/assets/images/gen/services/service-1.webp"
+thumbnail: "/assets/images/gen/services/service-1.jpg"
+image: "/assets/images/gen/services/service-1.jpg"
 
 hero:
   enabled: true
-  heading: "Web Development"
+  heading: "Innenputzarbeiten"
   sub_heading: "Our experienced software engineers develop websites and desktop applications"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-1-large.webp"
+  background_image: "/assets/images/gen/services/service-1-large.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

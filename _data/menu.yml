@@ -7,17 +7,17 @@ main:
     weight: 1
     child:
       - name: "Innenputzarbeiten"
-        url: /services/web-development/
+        url: /services/Innenputzarbeiten/
       - name: "Außenputzarbeiten"
-        url: /services/user-experience/
+        url: /services/Außenputzarbeiten/
       - name: "Trockenbau"
-        url: /services/branding/
+        url: /services/Trockenbau/
       - name: "Deckenkonstruktion"
-        url: /services/web-design/
+        url: /services/Deckenkonstruktion/
       - name: "Neu und Umbauten"
-        url: /services/seo/
+        url: /services/Neu und Umbauten/
       - name: "Sanierungsarbeiten"
-        url: /services/software-engineering/
+        url: /services/Sanierungsarbeiten/
   - name: Referenzen
     url: /projects/
     weight: 2
@@ -63,16 +63,10 @@ footer_secondary:
     url: /contact/
     weight: 3
 footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
+  - name: Datenschutzerklärung und Impressum
+    url: /terms-and-conditions/
     weight: 1
-  - name: Terms and Conditions
+bottom:
+  - name: Datenschutzerklärung und Impressum
     url: /terms-and-conditions/
     weight: 2
-bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 4

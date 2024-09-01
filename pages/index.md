@@ -30,7 +30,7 @@ hero:
         style: "primary"
 services:
   enabled: true
-  heading: "Dienste"
+  heading: "Unsere Dienstleistungen"
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
@@ -82,24 +82,6 @@ projects:
   view_more_button_link: "/projects"
   prevent_click: false
 
-outro:
-  enabled: true
-  align: center
-  image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
-  features:
-    enabled: false
-    list:
-      - text: "Free Quote"
-        fa_icon: "fas fa-envelope-open-text"
-  buttons:
-    enabled: true
-    list:
-      - text: "Contact Us"
-        url: "/contact"
-        external: false
-        size: "large"
 
 posts:
   enabled: true

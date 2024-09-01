@@ -1,23 +1,23 @@
 ---
-title: "SEO"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
-date: 2021-07-23
-weight: 5
+title: "Neu und Umbauten"
+description: "Building complex web applications and system software."
+date: 2019-10-03
+weight: 6
 header_transparent: true
-fa_icon: "far fa-chart-bar"
-icon: "assets/images/icons/icons8-bar-chart-100.png"
-thumbnail: "/assets/images/gen/services/service-5-thumbnail.webp"
-image: "/assets/images/gen/services/service-5.webp"
+fa_icon: "fab fa-codepen"
+icon: "assets/images/icons/icons8-merge-git-100.png"
+thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
+image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "SEO"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  heading: "Neu und Umbauten"
+  sub_heading: "Building complex web applications and system software."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-5.webp"
+  background_image: "/assets/images/gen/services/service-6.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
