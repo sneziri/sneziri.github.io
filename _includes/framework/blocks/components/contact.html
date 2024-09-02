@@ -9,7 +9,7 @@
   {% endif %}
   {% if contact.phone and contact.phone != "" %}
     <div class="contact-phone">
-      <strong>Phone:</strong>
+      <strong>Telephonnummer:</strong>
       {{ contact.phone }}</div>
   {% endif %}
   {% if contact.fax and contact.fax != "" %}
@@ -19,8 +19,8 @@
   {% endif %}
   {% if contact.address and contact.address != "" %}
     <div class="contact-address">
-      <strong>Address:</strong>
-      {{ contact.address }} {% if contact.map_link %}<a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a> {% endif %}
+      <strong>Adresse:</strong>
+      {{ contact.address }} {% if contact.map_link %}<a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(Karte anzeigen)</a> {% endif %}
     </div>
   {% endif %}
 </div>

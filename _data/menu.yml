@@ -3,18 +3,18 @@ main:
     url: /
     weight: 1
   - name: Dienstleistungen
-    url: /services/
+    url: /unsere-dienstleistungen/
     weight: 1
     child:
       - name: "Innenputzarbeiten"
         url: /services/Innenputzarbeiten/
       - name: "Außenputzarbeiten"
         url: /services/Außenputzarbeiten/
-      - name: "Trockenbau"
-        url: /services/Trockenbau/
+      - name: "Gestaltung und Dekoration"
+        url: /services/Gestaltung und Dekoration/
       - name: "Deckenkonstruktion"
         url: /services/Deckenkonstruktion/
-      - name: "Neu und Umbauten"
+      - name: "Neu- und Umbauten"
         url: /services/Neu und Umbauten/
       - name: "Sanierungsarbeiten"
         url: /services/Sanierungsarbeiten/
@@ -44,7 +44,7 @@ footer_primary:
     url: /
     weight: 1
   - name: Unsere Dienstleistungen
-    url: /services/
+    url: /unsere-dienstleistungen/
     weight: 2
   - name: Projects
     url: /projects/

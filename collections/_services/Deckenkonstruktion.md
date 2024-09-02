@@ -1,6 +1,6 @@
 ---
 title: "Deckenkonstruktion"
-description: "Understanding the needs of the user and creating product solutions."
+description: Unsere Deckenkonstruktionen im Trocken- und Leichtbau vereinen Flexibilität und Stil für moderne Innenräume."
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-2.webp"
 hero:
   enabled: true
   heading: "Deckenkonstruktion"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  sub_heading: "Unsere Deckenkonstruktionen im Trocken- und Leichtbau vereinen Flexibilität und Stil für moderne Innenräume."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -20,52 +20,32 @@ hero:
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
-  buttons:
-    enabled: false
-    list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: false
-        style: "primary"
 ---
 
-# Creating Modern Websites
+---
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+# Deckenkonstruktion im Trocken- und Leichtbau
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Im modernen Trocken- und Leichtbau spielen Deckenkonstruktionen eine zentrale Rolle in der Raumgestaltung und der funktionalen Gestaltung von Gebäuden. Unsere Gipserfirma bietet Ihnen maßgeschneiderte Lösungen für Deckenkonstruktionen, die sowohl ästhetisch ansprechend als auch funktional sind.
 
-## What is Web Design?
+## Trockenbau-Decken
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Trockenbau-Decken sind eine effiziente und flexible Lösung für die Gestaltung von Innenräumen. Sie bestehen meist aus Gipskartonplatten, die auf einem Unterkonstrukt aus Metallprofilen befestigt werden. Diese Art der Deckenkonstruktion ermöglicht nicht nur eine schnelle und saubere Installation, sondern auch eine einfache Integration von Beleuchtungssystemen, Lüftungsschächten und anderen technischen Einrichtungen. Trockenbau-Decken bieten zudem eine hervorragende Akustikregulierung und können problemlos mit verschiedenen Oberflächenfinishs gestaltet werden, um den individuellen Anforderungen und Wünschen unserer Kunden gerecht zu werden.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Leichtbau-Decken
 
-## Front-end Development
+Leichtbau-Decken zeichnen sich durch ihre hohe Flexibilität und die schnelle Verfügbarkeit aus. Sie werden häufig in Kombination mit Leichtbauwänden verwendet, um eine harmonische und funktionale Raumaufteilung zu gewährleisten. Diese Konstruktionen bestehen oft aus leichten Materialien wie Gipsfaserplatten, die in einem modulares System montiert werden. Sie sind ideal für Bürogebäude, Wohnräume und alle anderen Bereiche, in denen ein schnelles und kosteneffizientes Deckensystem gefragt ist.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Vorteile unserer Deckenkonstruktionen
 
-> As a UX designer, you should consider the Why, What and How of product use.
+- **Flexibilität:** Anpassungsfähigkeit an verschiedene Raumgestaltungen und architektonische Anforderungen.
+- **Schnelle Installation:** Effiziente Montagezeiten und minimierte Bauzeiten.
+- **Ästhetik:** Vielfältige Gestaltungsmöglichkeiten, um sowohl moderne als auch klassische Innenräume zu ergänzen.
+- **Akustik:** Verbesserung der Raumakustik durch spezielle Akustiklösungen.
+- **Funktionalität:** Integration von Beleuchtung und technischen Einrichtungen ohne Komplikationen.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+Unsere erfahrenen Fachleute stehen Ihnen von der Planung bis zur finalen Ausführung mit Rat und Tat zur Seite. Wir sorgen dafür, dass Ihre Deckenkonstruktion nicht nur höchsten Standards entspricht, sondern auch perfekt zu Ihrem individuellen Bauprojekt passt.
 
-## Design Systems
+Kontaktieren Sie uns, um mehr über unsere Deckenkonstruktionen im Trocken- und Leichtbau zu erfahren und ein unverbindliches Angebot zu erhalten!
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+---

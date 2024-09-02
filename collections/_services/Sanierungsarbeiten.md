@@ -1,6 +1,6 @@
 ---
 title: "Sanierungsarbeiten"
-description: "Improving search engine rankings through techincal on page SEO and content creation."
+description: „Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen.“
 date: 2021-07-23
 weight: 5
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-5.webp"
 hero:
   enabled: true
   heading: "Sanierungsarbeiten"
-  sub_heading: "Improving search engine rankings through techincal on page SEO and content creation."
+  sub_heading: „Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen.“
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -21,52 +21,38 @@ hero:
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
-  buttons:
-    enabled: false
-    list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: false
-        style: "primary"
 ---
 
-# Creating Modern Websites
+Natürlich! Hier ist ein Beispieltext für eine Website einer Gipserfirma, die Sanierungsarbeiten anbietet:
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+---
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+# Ihre Experten für Sanierungsarbeiten
 
-## What is Web Design?
+## anierungskompetenz auf höchstem Niveau
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Bei uns verstehen wir, dass eine Sanierung mehr ist als nur eine Renovierung – es ist die Wiederherstellung von Qualität und Wert für Ihr Zuhause oder Ihr Unternehmen. Als erfahrene Gipserfirma bieten wir Ihnen maßgeschneiderte Lösungen, die Ihre Räumlichkeiten nicht nur verschönern, sondern auch ihre Lebensdauer verlängern.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Unsere Dienstleistungen umfassen:
 
-## Front-end Development
+- **Innen- und Außenputzarbeiten:** Wir sorgen für eine glatte und gleichmäßige Oberfläche, die Ihrem Gebäude einen neuen Glanz verleiht. Unsere Putze sind von höchster Qualität und werden mit Präzision aufgetragen, um ein perfektes Ergebnis zu garantieren.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+- **Renovierung und Modernisierung:** Egal, ob Sie alte Wände auffrischen oder neue Designakzente setzen möchten – wir helfen Ihnen, Ihre Visionen zu verwirklichen. Von der Konzeptentwicklung bis zur finalen Ausführung stehen wir Ihnen mit Fachwissen und Erfahrung zur Seite.
 
-> As a UX designer, you should consider the Why, What and How of product use.
+- **Feuchtigkeitsschutz:** Wir bieten effektive Lösungen zum Schutz vor Feuchtigkeit und Schimmelbildung. Unsere speziellen Techniken sorgen dafür, dass Ihre Wände dauerhaft trocken und gesund bleiben.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+- **Trockenbauarbeiten:** Ob Trennwände, Deckenverkleidungen oder andere Trockenbauprojekte – wir erstellen präzise und stabile Konstruktionen, die Ihren Anforderungen entsprechen.
 
-## Design Systems
+## Warum Malbun Design Gmbh?
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+- **Erfahrung und Kompetenz:** Unser Team besteht aus erfahrenen Fachleuten, die ihr Handwerk verstehen. Wir setzen auf bewährte Methoden und hochwertige Materialien, um Ihnen ein optimales Ergebnis zu bieten.
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+- **Kundenzufriedenheit:** Ihre Zufriedenheit ist unser oberstes Ziel. Wir arbeiten eng mit Ihnen zusammen, um Ihre Wünsche zu erfüllen und sicherzustellen, dass Sie mit dem Endergebnis rundum zufrieden sind.
 
-## Process
+- **Zuverlässigkeit und Pünktlichkeit:** Wir halten uns an vereinbarte Termine und sorgen dafür, dass die Arbeiten effizient und zuverlässig durchgeführt werden.
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
+**Kontaktieren Sie uns**
+Möchten Sie mehr über unsere Sanierungsarbeiten erfahren oder ein unverbindliches Angebot erhalten? Kontaktieren Sie uns noch heute – wir freuen uns darauf, Ihr Projekt gemeinsam zu realisieren!
 
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+---

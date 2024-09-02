@@ -1,6 +1,6 @@
 ---
 title: "Außenputzarbeiten"
-description: "Design beautiful modern websites using the Jamstack."
+description: "Wir bieten hochwertige Außenputzarbeiten an, um Gebäude vor Witterungseinflüssen zu schützen und ein ansprechendes Erscheinungsbild zu gewährleisten."
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -12,7 +12,7 @@ image: "/assets/images/gen/services/service-4.webp"
 hero:
   enabled: true
   heading: "Außenputzarbeiten"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  sub_heading: "Wir bieten hochwertige Außenputzarbeiten an, um Gebäude vor Witterungseinflüssen zu schützen und ein ansprechendes Erscheinungsbild zu gewährleisten."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
@@ -21,52 +21,25 @@ hero:
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: 660px;
-  buttons:
-    enabled: false
-    list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
-        fa_icon: false
-        size: large
-        outline: false
-        style: "primary"
 ---
+Außenputzarbeiten sind ein wesentlicher Bestandteil der Fassadengestaltung und -sanierung. Sie bieten nicht nur ästhetische Vorteile, sondern schützen das Gebäude auch vor Witterungseinflüssen und tragen zur Wärmedämmung bei. Eine Gipser Firma, die auf Außenputz spezialisiert ist, spielt eine entscheidende Rolle bei der Ausführung dieser Arbeiten.
 
-# Creating Modern Websites
+## Vorteile von Außenputz
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+Der Außenputz dient als erste Schutzschicht gegen äußere Einflüsse wie Regen, Wind und UV-Strahlung. Er verhindert das Eindringen von Feuchtigkeit, was langfristig Schäden an der Bausubstanz vorbeugt. Darüber hinaus trägt der Putz zur Wärmedämmung bei und kann so helfen, Energie zu sparen. Die gestalterischen Möglichkeiten sind vielfältig: Von glatten, modernen Oberflächen bis hin zu strukturierten und farbigen Putzarten – es gibt zahlreiche Optionen, um das Erscheinungsbild eines Gebäudes zu individualisieren.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Ablauf der Außenputzarbeiten
 
-## What is Web Design?
+1. **Vorbereitung:** Die Gipser Firma beginnt mit einer gründlichen Reinigung der Fassade, um Schmutz, Algen und lose Teile zu entfernen. Eventuelle Schäden werden repariert, und die Oberfläche wird für den Putzauftrag vorbereitet.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+2. **Grundierung:** Eine passende Grundierung wird aufgetragen, um die Haftung des Putzes zu gewährleisten. Diese Schicht sorgt dafür, dass der Putz gleichmäßig aufgetragen werden kann und sich keine Risse bilden.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+3. **Auftragen des Putzes:** Der Außenputz wird in mehreren Schichten aufgetragen. Zuerst kommt eine Unterputzschicht, die Unebenheiten ausgleicht und für Stabilität sorgt. Danach folgt die Oberputzschicht, die das gewünschte Finish und die Struktur gibt.
 
-## Front-end Development
+4. **Endbearbeitung:** Nach dem Auftragen des Putzes wird die Oberfläche je nach gewünschtem Aussehen geglättet, strukturiert oder anderweitig bearbeitet. Anschließend kann der Putz je nach Bedarf noch gestrichen oder imprägniert werden.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Qualität und Fachwissen
 
-> As a UX designer, you should consider the Why, What and How of product use.
+Wir bringen das nötige Fachwissen mit, um hochwertige und langlebige Außenputzarbeiten durchzuführen. Dies umfasst nicht nur die Auswahl der richtigen Materialien und Techniken, sondern auch die Einhaltung aller bauphysikalischen Anforderungen. Die fachgerechte Ausführung von Außenputzarbeiten trägt wesentlich zur Langlebigkeit und Wertsteigerung eines Gebäudes bei.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+Außenputzarbeiten sind eine Investition in die Zukunft eines Gebäudes. Sie schützen, dämmen und verschönern. Eine professionelle Gipser Firma gewährleistet durch Fachwissen und Erfahrung, dass diese Arbeiten effizient und qualitativ hochwertig durchgeführt werden, was zu einer langlebigen und ansprechenden Fassade führt.

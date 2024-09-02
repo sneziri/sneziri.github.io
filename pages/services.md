@@ -1,13 +1,14 @@
 ---
 layout: list
-title: Services
-description: "A selection of our digital services"
-permalink: "/services/"
+collection: "Services"
+title: Unsere Dienstleistungen
+description: "Unsere Dienstleistungen"
+permalink: "/unsere-dienstleistungen/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
+  heading: "Unsere Dienstleistungen"
   sub_heading: "We offer a complete range of digital services."
   text_color: "#FFFFFF"
   background_color: false
@@ -20,7 +21,7 @@ hero:
   buttons:
     enabled: false
     list:
-      - text: "Contact Us"
+      - text: "Kontakt aufnehmen"
         url: "/contact"
         external: false
         fa_icon: false
@@ -53,12 +54,12 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Haben Sie noch Fragen?"
+  sub_heading: "Buchen Sie eine individuelle Beratung!"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Termin vereinbaren"
         url: "/contact"
         external: false
         fa_icon: false
