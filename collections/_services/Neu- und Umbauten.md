@@ -4,10 +4,8 @@ description: "Für Neu- und Umbauten bieten wir maßgeschneiderte Gipserlösunge
 date: 2019-10-03
 weight: 6
 header_transparent: true
-fa_icon: "fab fa-codepen"
-icon: "assets/images/icons/icons8-merge-git-100.png"
-thumbnail: "/assets/images/gen/services/service-6-thumbnail.webp"
-image: "/assets/images/gen/services/service-6.webp"
+thumbnail: "/assets/images/gen/services/service-6-thumbnail.jpg"
+image: "/assets/images/gen/services/service-6.jpg"
 
 hero:
   enabled: true
@@ -17,7 +15,7 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-6.webp"
+  background_image: "/assets/images/gen/services/service-6-large.jpg"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

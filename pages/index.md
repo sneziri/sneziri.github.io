@@ -34,27 +34,14 @@ services:
   sub_heading: ""
   limit: 6
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
-  view_more_button_link: "/unsere-dienstleistungen"
   prevent_click: false
 
 intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
-  features:
-    enabled: false
-    list:
-      - text: "Configure the homepage sections in front-matter."
-        fa_icon: "fas fa-check"
-      - text: "An advanced hero image section with dozens of design options."
-        fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
-        fa_icon: "fas fa-check"
-      - text: "Multiple content types including services, projects, blog and more."
-        fa_icon: "fas fa-check"
+  heading: "Als erfahrene Gipserfirma bieten wir hochwertige Putz- und Stuckarbeiten für Innen- und Außenbereiche an."
+  sub_heading: "Mit Präzision und handwerklichem Können sorgen wir dafür, dass Ihre Bauprojekte langlebig und ästhetisch ansprechend gestaltet werden."
   buttons:
     enabled: true
     list:
@@ -65,11 +52,6 @@ intro:
         size: large
         outline: false
         style: "primary"
-
-partners:
-  enabled: true
-  limit: 5
-  sort: "weight" # 'date'
 
 projects:
   enabled: true

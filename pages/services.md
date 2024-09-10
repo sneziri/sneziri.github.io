@@ -9,7 +9,7 @@ header_transparent: true
 hero:
   enabled: true
   heading: "Unsere Dienstleistungen"
-  sub_heading: "We offer a complete range of digital services."
+  sub_heading: "Wir bieten folgende Dienstleistungen und mehr an:"
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
