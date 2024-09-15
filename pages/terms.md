@@ -15,14 +15,14 @@ Wir freuen uns, dass Sie unsere Website besuchen und bedanken uns für Ihr Inter
 
 Verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-[Name des Unternehmens/Betreibers]  
-[Adresse des Unternehmens/Betreibers]  
-[PLZ Ort]  
+Malbun Design GmbH
+Langwiesenstrasse 6
+8570 Weinfelden 
 Schweiz
 
 Kontakt:  
-Telefon: [Telefonnummer]  
-E-Mail: [E-Mail-Adresse]
+Telefon: +41 76 733 34 47 
+E-Mail: Jasharimair@gmail.com
 
 ## 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
 
@@ -78,20 +78,19 @@ Durch die Weiterentwicklung unserer Website und Angebote darüber oder aufgrund 
 
 # Impressum
 
-[Name des Unternehmens/Betreibers]  
-[Adresse des Unternehmens/Betreibers]  
-[PLZ Ort]  
+Malbun Design GmbH
+Langwiesenstrasse 6
+8570 Weinfelden
 Schweiz
 
-Telefon: [Telefonnummer]  
-E-Mail: [E-Mail-Adresse]  
-Website: [URL der Website]
+Telefon: +41 76 733 34 47  
+E-Mail: Jasharimair@gmail.com  
+Website: www.malbun-design.ch
 
-Verantwortlich für den Inhalt: [Name des Verantwortlichen]  
-Geschäftsführer: [Name des Geschäftsführers, falls zutreffend]
+Verantwortlich für den Inhalt: Malbun Design GmbH 
+Geschäftsführer: Mair Jashari
 
-Handelsregister: [Handelsregistereintrag und Nummer]  
-Umsatzsteuer-Identifikationsnummer: [USt-IdNr, falls zutreffend]
+Handelsregister: HR01-1006065278
 
 Rechtlicher Hinweis: Alle Inhalte dieser Website sind urheberrechtlich geschützt. Eine Vervielfältigung oder Verwendung der Inhalte ist ohne ausdrückliche Zustimmung nicht gestattet.
 

@@ -63,16 +63,4 @@ projects:
   view_more_button_text: "View All Projects"
   view_more_button_link: "/projects"
   prevent_click: false
-
-
-posts:
-  enabled: true
-  heading: "Latest Posts"
-  sub_heading: ""
-  limit: 3
-  columns: 3
-  sort: "weight" # 'date'
-  view_more_button_text: "View All Posts"
-  view_more_button_link: "/blog"
-  prevent_click: false
 ---

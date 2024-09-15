@@ -20,14 +20,9 @@ hero:
   fullscreen_desktop: false
   height: 660px
 ---
-
-Natürlich! Hier ist ein Beispieltext für eine Website einer Gipserfirma, die Sanierungsarbeiten anbietet:
-
----
-
 # Ihre Experten für Sanierungsarbeiten
 
-## anierungskompetenz auf höchstem Niveau
+## Sanierungskompetenz auf höchstem Niveau
 
 Bei uns verstehen wir, dass eine Sanierung mehr ist als nur eine Renovierung – es ist die Wiederherstellung von Qualität und Wert für Ihr Zuhause oder Ihr Unternehmen. Als erfahrene Gipserfirma bieten wir Ihnen maßgeschneiderte Lösungen, die Ihre Räumlichkeiten nicht nur verschönern, sondern auch ihre Lebensdauer verlängern.
 
