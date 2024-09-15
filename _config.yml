@@ -125,13 +125,13 @@ fonts:
 
 logo:
   logo_text: "Malbun Design GmbH"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
-  logo_image_desktop_height: "30px"
-  logo_image_desktop_width: "132px"
-  logo_image_mobile_height: "30px"
+  logo_image: assets/images/logo/FullLogo_Transparent-2.png
+  logo_image_mobile: assets/images/logo/icon-logo.png
+  logo_image_invert: assets/images/logo/FullLogo_Transparent-2.png
+  logo_image_invert_mobile: assets/images/logo/icon-logo.png
+  logo_image_desktop_height: "70px"
+  logo_image_desktop_width: "250px"
+  logo_image_mobile_height: "16px"
   logo_image_mobile_width: "34px"
   show_logo_image_on_mobile: true
   show_logo_image_on_desktop: true
