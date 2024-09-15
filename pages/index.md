@@ -55,12 +55,12 @@ intro:
 
 projects:
   enabled: true
-  heading: "Our Projects"
+  heading: "Portfolio"
   sub_heading: ""
   limit: 2
   columns: 2
   sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
+  view_more_button_text: "Weitere Bilder anzeigen"
   view_more_button_link: "/projects"
   prevent_click: false
 ---

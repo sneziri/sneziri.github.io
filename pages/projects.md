@@ -1,15 +1,15 @@
 ---
 layout: list
 collection: "projects"
-title: Projects
-description: "A selection of our work and projects."
+title: Portfolio
+description: "Eine Übersicht über unsere Arbeit und Projekte."
 permalink: "/projects/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Projects"
-  sub_heading: "Our portfolio of work and projects."
+  heading: "Portfolio"
+  sub_heading: "Unser Arbeits- und Projektportfolio."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -21,7 +21,7 @@ hero:
   buttons:
     enabled: false
     list:
-      - text: "Contact Us"
+      - text: "Kontakt aufnehmen"
         url: "/contact"
         external: false
         fa_icon: false
@@ -34,39 +34,15 @@ grid:
   sort_by: "weight" # "date", "weight"
   columns: 2
   prevent_click: false
-
-intro:
-  enabled: false
-  align: left
-  image: false
-  heading: "We are a full service digital agency"
-  sub_heading: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eget sapien in elit semper accumsan. Pellentesque accumsan ut tortor eu varius. Sed id tincidunt massa, ut egestas orci."
-  features:
-    enabled: true
-    list:
-      - text: "Some of our projects are open source"
-        fa_icon: false
-  buttons:
-    enabled: true
-    list:
-      - text: "View Github"
-        url: "https://github.com/zerostaticthemes"
-        external: true
-        fa_icon: "fab fa-github"
-        size: "large"
-        outline: false
-        style: "primary"
-
 outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Haben Sie weitere Fragen?"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Kontakt aufnehmen"
         url: "/contact"
         external: false
         fa_icon: false
