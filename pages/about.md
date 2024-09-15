@@ -23,41 +23,51 @@ hero:
         fa_icon: false
         size: large
 ---
+## Wer sind wir?
 
-# Creating Modern Websites
+Wir sind Malbun Design Gmbh, Ihr kompetenter Partner für hochwertige Gipserarbeiten. Seit Juni 2024 bieten wir erstklassige Handwerkskunst und zuverlässigen Service für alle Ihre Gipser- und Stuckprojekte.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## Unsere Mission
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Wir setzen auf Qualität und Präzision, um Ihre Vorstellungen perfekt umzusetzen. Unser Ziel ist es, durch exzellente Arbeit und persönlichen Service Ihre Erwartungen zu übertreffen.
 
-## What is Web Design?
+## Unsere Werte
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Vertrauen, Qualität und Innovation stehen bei uns an erster Stelle. Wir arbeiten transparent und engagiert, um Ihnen die besten Ergebnisse zu liefern.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Unsere Leistungen
 
-## Front-end Development
+Wir bieten umfassende Gipserarbeiten, einschließlich Innen- und Außengestaltung, Stuckarbeiten sowie Sanierungen und Renovierungen.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Unsere Vision
 
-> As a UX designer, you should consider the Why, What and How of product use.
+Wir streben danach, stets an der Spitze der Branche zu bleiben und Ihnen mit modernen Lösungen und kontinuierlicher Weiterentwicklung erstklassige Ergebnisse zu liefern.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
 
-## Design Systems
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+## Was bieten wir an?
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+Bei Malbun Design GmbH bieten wir Ihnen ein umfassendes Spektrum an Gipser- und Stuckarbeiten:
 
-## Process
+- Innen- und Außengestaltung: Professionelle Gestaltung von Wänden und Decken, sowohl in Neubauten als auch bei Renovierungen.
+- Stuckarbeiten: Kreative und präzise Stuck- und Dekorationsarbeiten, die Ihrem Raum das gewisse Etwas verleihen.
+- Sanierungen und Renovierungen: Fachgerechte Sanierung und Renovierung Ihrer Räume, um ihnen neues Leben einzuhauchen.
+- Kreative Lösungen: Individuelle Anpassungen und kreative Lösungen, um Ihre spezifischen Wünsche und Vorstellungen umzusetzen.
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
+Unser erfahrenes Team arbeitet mit höchster Präzision und Leidenschaft, um Ihnen exzellente Ergebnisse zu liefern.
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
 
-![Design In Figma](/assets/images/gen/content/content-2.webp)
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+## Unsere Erfahrung und Qualifikationen
+
+Mit 16 Jahren Erfahrung in der Gipser Branche bringen wir umfangreiche Fachkenntnisse und handwerkliches Können mit. Unser Team besteht aus qualifizierten Fachleuten, die regelmäßig geschult werden, um stets die neuesten Techniken und Trends anzuwenden. Wir arbeiten präzise und zuverlässig, um höchste Qualität und Kundenzufriedenheit zu gewährleisten.
+
+
+
+## Warum sollten Kunden uns wählen?
+
+**Erfahrung & Expertise:** 16 Jahre Erfahrung und hochqualifizierte Fachleute garantieren erstklassige Ergebnisse.
+Qualität & Präzision: Wir legen größten Wert auf präzise Ausführung und erstklassige Materialien.
+Kundenzufriedenheit: Ihre Wünsche stehen bei uns im Mittelpunkt. Wir arbeiten eng mit Ihnen zusammen, um Ihre Vorstellungen perfekt umzusetzen.
+Zuverlässigkeit: Pünktliche und zuverlässige Lieferung aller Projekte, egal wie groß oder klein.
+Wählen Sie uns für eine vertrauensvolle Partnerschaft und herausragende Ergebnisse.
