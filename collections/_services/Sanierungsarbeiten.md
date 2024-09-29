@@ -1,6 +1,6 @@
 ---
 title: "Sanierungsarbeiten"
-description: „Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen.“
+description: "Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen."
 date: 2021-07-23
 weight: 5
 header_transparent: true
@@ -10,7 +10,7 @@ image: "/assets/images/gen/services/service-5.jpg"
 hero:
   enabled: true
   heading: "Sanierungsarbeiten"
-  sub_heading: „Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen.“
+  sub_heading: "Bei uns bieten wir Ihnen fachkundige Sanierungsarbeiten, die Ihr Zuhause nicht nur erneuern, sondern auch für die Zukunft wappnen."
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
