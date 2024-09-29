@@ -2,14 +2,14 @@
 layout: home
 permalink: "/"
 title: "Malbun Design GmbH"
-description: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an. Vertrauen Sie auf unsere Präzision und Qualität für Ihr Bauprojekt!"
+description: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an."
 header_transparent: true
 meta_title: Malbun Design GmbH
 
 hero:
   enabled: true
   heading: "Malbun Design GmbH"
-  sub_heading: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an. Vertrauen Sie auf unsere Präzision und Qualität für Ihr Bauprojekt!"
+  sub_heading: "Wir sind Ihre Experten für Verputz- und Stuckarbeiten in der Schweiz. Mit jahrelanger Erfahrung bieten wir hochwertige Innen- und Außenputzlösungen sowie kreative Stuckarbeiten an."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true

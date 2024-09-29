@@ -92,13 +92,13 @@ colors:
     base_bg: "#ffffff"
     base_bg_2: "#f8fafc"
     base_bg_3: "#f1f5f9"
-    base_text: "#202020"
-    base_text_2: "#4b5563"
-    primary_bg: "#a0a0a0"        # Light Gray
+    base_text: "#000000"
+    base_text_2: "#000000"
+    primary_bg: "#8a8a8a"        # Light Gray
     primary_bg_2: "#8c8c8c"      # Slightly Darker Gray
     primary_bg_3: "#b0b0b0"      # Medium Gray
     primary_text: "#fdfcf9"
-    header_text: "#a0a0a0"       # Light Gray
+    header_text: "#000000"       # Light Gray
     logo_text: "#a0a0a0"           # Light Blue
     menu_text: "inherit"
 
@@ -180,7 +180,7 @@ newsletter:
 contact_form: 
   use_netlify_form: false
   use_formspree_form: true
-  formspree_endpoint: https://formspree.io/f/moqyklqv
+  formspree_endpoint: https://formspree.io/f/xpwaendk
   netlify_form_name: "contact"
 
 menu: 
@@ -190,7 +190,6 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Malbun Design GmbH Gipserunternehmen"
-  enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
@@ -203,7 +202,6 @@ bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
   copyright_text: "© 2024 Malbun Design GmbH"
-  show_rss_icon: true
 
 sidebar:
   enable_sidebar_services: true

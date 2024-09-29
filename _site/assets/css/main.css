@@ -1,14 +1,14 @@
 @charset "UTF-8";
 :root {
-  --color-primary-bg: #a0a0a0;
+  --color-primary-bg: #8a8a8a;
   --color-primary-bg-2: #8c8c8c;
   --color-primary-bg-3: #b0b0b0;
   --color-primary-text: #fdfcf9;
   --color-base-bg: #ffffff;
   --color-base-bg-2: #f8fafc;
   --color-base-bg-3: #f1f5f9;
-  --color-base-text: #202020;
-  --color-base-text-2: #4b5563;
+  --color-base-text: #000000;
+  --color-base-text-2: #000000;
   --color-logo-text: #a0a0a0;
   --color-menu-text: inherit;
 }
@@ -15155,7 +15155,7 @@ html[data-mode=dark] .hero .hero-text.hero-text-invert {
   font-weight: 500;
   font-family: "Source Code Pro", SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
   font-size: 20px;
-  color: #a0a0a0;
+  color: #8a8a8a;
 }
 .hero .hero-image img {
   max-width: 100%;

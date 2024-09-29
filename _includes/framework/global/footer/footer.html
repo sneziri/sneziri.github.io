@@ -2,77 +2,74 @@
   <div class="container">
     <div class="row">
 
-        <div class="col-12 col-md-4">
-          <div class="footer-info">
-            {% if site.footer.footer_title and site.footer.footer_title != "" %}
-              <h2>{{ site.footer.footer_title }}</h2>
-            {% endif %}
+      <div class="col-20 col-md-10">
+        <div class="footer-info">
+          {% if site.footer.footer_title and site.footer.footer_title != "" %}
+          <h2 style="margin-bottom: 40px;">{{ site.footer.footer_title }}</h2> <!-- Added margin-bottom -->
+          {% endif %}
 
-            {% if site.footer.footer_description and site.footer.footer_description != "" %}
-              <p>{{ site.footer.footer_description }}</p>
-            {% endif %}
-          </div>
-
-          {% if site.footer.enable_social_media_icons and site.data.social %}
-              {% include framework/blocks/components/social.html %}
+          {% if site.footer.footer_description and site.footer.footer_description != "" %}
+          <p>{{ site.footer.footer_description }}</p>
           {% endif %}
         </div>
-
-        <div class="col-12 col-md-8 mt-gutter mt-md-0">
-          <div class="row justify-content-end">
-
-            {% if site.footer.enable_menu_footer_primary %}
-              <div class="col-12 col-md-3 mt-gutter mt-md-0">
-                <div class="footer-menu">
-                  {%  if site.footer.footer_primary_menu_title %}
-                    <h3>{{ site.footer.footer_primary_menu_title }}</h3>
-                  {% endif %}
-                  {% include framework/global/menu/menu-footer.html 
-                    menu=site.data.menu.footer_primary
-                  %}
-                </div>
-              </div>
-            {% endif %}
-
-            {% if site.footer.enable_menu_footer_secondary %}
-              <div class="col-12 col-md-3 mt-gutter mt-md-0">
-                <div class="footer-menu">
-                {%  if site.footer.footer_secondary_menu_title %}
-                  <h3>{{ site.footer.footer_secondary_menu_title }}</h3>
-                {% endif %}
-                {% include framework/global/menu/menu-footer.html 
-                  menu=site.data.menu.footer_secondary
-                %}
-                </div>
-              </div>
-            {% endif %}
-
-            {% if site.footer.enable_menu_footer_tertiary  %}
-              <div class="col-12 col-md-3 mt-gutter mt-md-0">
-                <div class="footer-menu">
-                {%  if site.footer.footer_tertiary_menu_title %}
-                  <h3>{{ site.footer.footer_tertiary_menu_title }}</h3>
-                {% endif %}
-                {% include framework/global/menu/menu-footer.html 
-                  menu=site.data.menu.footer_tertiary
-                %}
-                </div>
-              </div>
-            {% endif %}
-        
-          </div>
-        </div>
-      
-    </div>
-    {% if site.footer.enable_contact_details %}
-    <div class="row justify-content-end mt-2">
-      <div class="col-12 col-md-4">
-        <h3>Kontakt aufnehmen</h3>
-        {% include framework/blocks/components/contact.html
-          contact=site.data.contact
-        %}
       </div>
+
+      <div class="col-12 col-md-12 mt-gutter mt-md-0">
+        <div class="row justify-content-end">
+
+          {% if site.footer.enable_menu_footer_primary %}
+          <div class="col-12 col-md-3 mt-gutter mt-md-0">
+            <div class="footer-menu">
+              {% if site.footer.footer_primary_menu_title %}
+              <h3>{{ site.footer.footer_primary_menu_title }}</h3>
+              {% endif %}
+              {% include framework/global/menu/menu-footer.html
+              menu=site.data.menu.footer_primary
+              %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if site.footer.enable_menu_footer_secondary %}
+          <div class="col-12 col-md-3 mt-gutter mt-md-0">
+            <div class="footer-menu">
+              {% if site.footer.footer_secondary_menu_title %}
+              <h3>{{ site.footer.footer_secondary_menu_title }}</h3>
+              {% endif %}
+              {% include framework/global/menu/menu-footer.html
+              menu=site.data.menu.footer_secondary
+              %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if site.footer.enable_menu_footer_tertiary %}
+          <div class="col-12 col-md-3 mt-gutter mt-md-0">
+            <div class="footer-menu">
+              {% if site.footer.footer_tertiary_menu_title %}
+              <h3>{{ site.footer.footer_tertiary_menu_title }}</h3>
+              {% endif %}
+              {% include framework/global/menu/menu-footer.html
+              menu=site.data.menu.footer_tertiary
+              %}
+            </div>
+          </div>
+          {% endif %}
+
+          {% if site.footer.enable_contact_details %}
+          <div class="col-12 col-md-3 mt-gutter mt-md-0"> <!-- Added ms-md-3 for space -->
+            <div class="footer-menu">
+              <h3>Kontakt aufnehmen</h3>
+              {% include framework/blocks/components/contact.html
+              contact=site.data.contact
+              %}
+            </div>
+          </div>
+          {% endif %}
+
+        </div>
+      </div>
+
     </div>
-    {% endif %}
   </div>
 </div>

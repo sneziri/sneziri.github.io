@@ -22,7 +22,7 @@ Schweiz
 
 Kontakt:  
 Telefon: +41 76 733 34 47 
-E-Mail: Jasharimair@gmail.com
+E-Mail: Malbundesign@gmail.com
 
 ## 2. Erhebung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung
 
@@ -84,7 +84,7 @@ Langwiesenstrasse 6
 Schweiz
 
 Telefon: +41 76 733 34 47  
-E-Mail: Jasharimair@gmail.com  
+E-Mail: Malbundesign@gmail.com
 Website: www.malbun-design.ch
 
 Verantwortlich für den Inhalt: Malbun Design GmbH 
