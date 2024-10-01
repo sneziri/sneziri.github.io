@@ -1,9 +1,9 @@
 ---
 layout: list
-collection: "Dienstleistungen"
+collection: "Services"
 title: Unsere Dienstleistungen
 description: "Unsere Dienstleistungen"
-permalink: "/dienstleistungen/"
+permalink: "/unsere-dienstleistungen/"
 header_transparent: true
 
 hero:

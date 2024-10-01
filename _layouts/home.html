@@ -32,29 +32,29 @@ body_classes: page-home
 {% endif %}
 
 {% assign cards = site.services | sort: 'date' | reverse %}
-{% assign limit = page.dienstleistungen.limit | default: 3 %}
-{% assign sort_by = page.dienstleistungen.sort | default: 'date' %}
-{% assign columns =  page.dienstleistungen.columns | default: 3 %}
+{% assign limit = page.services.limit | default: 3 %}
+{% assign sort_by = page.services.sort | default: 'date' %}
+{% assign columns =  page.services.columns | default: 3 %}
 {% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
 {% if sort_by == 'weight' %}
   {% assign cards = cards | sort: 'weight' %}
 {% endif %}
 
-{% if page.dienstleistungen.enabled %}
+{% if page.services.enabled %}
   <div class="section bg-base-bg-2">
     <div class="container">
       <div class="row">
 
         {% include framework/blocks/components/grid-header.html
-          heading=page.dienstleistungen.heading
-          sub_heading=page.dienstleistungen.sub_heading
+          heading=page.services.heading
+          sub_heading=page.services.sub_heading
           align="center"
         %}
         
         {% for card in cards limit: limit %}
 
           {% assign url = card.url %}
-          {% if page.dienstleistungen.prevent_click %}
+          {% if page.services.prevent_click %}
             {% assign url = null %}
           {% endif %}
           
@@ -71,8 +71,8 @@ body_classes: page-home
         {% endfor %}
 
         {% include framework/blocks/components/grid-footer.html 
-          view_more_button_text=page.dienstleistungen.view_more_button_text
-          view_more_button_link=page.dienstleistungen.view_more_button_link
+          view_more_button_text=page.services.view_more_button_text
+          view_more_button_link=page.services.view_more_button_link
           align="center"
         %}
 

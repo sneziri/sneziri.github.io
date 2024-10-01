@@ -28,7 +28,7 @@ hero:
         size: large
         outline: false
         style: "primary"
-dienstleistungen:
+services:
   enabled: true
   heading: "Unsere Dienstleistungen"
   sub_heading: ""
