@@ -10,7 +10,7 @@
   --color-base-text: #000000;
   --color-base-text-2: #000000;
   --color-logo-text: #ffffff;
-  --color-menu-text: #ffffff;
+  --color-menu-text: #inherit;
 }
 
 html[data-mode=dark] {

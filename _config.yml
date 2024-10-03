@@ -100,7 +100,7 @@ colors:
     primary_text: "#fdfcf9"
     header_text: "#000000"       # Light Gray
     logo_text: "#ffffff"           # Light Blue
-    menu_text: "#ffffff"
+    menu_text: "#inherit"
 
     # dark
     base_bg_dark: "#121212"
