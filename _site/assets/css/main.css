@@ -1,6 +1,6 @@
 @charset "UTF-8";
 :root {
-  --color-primary-bg: #8a8a8a;
+  --color-primary-bg: #000000;
   --color-primary-bg-2: #8c8c8c;
   --color-primary-bg-3: #b0b0b0;
   --color-primary-text: #fdfcf9;
@@ -9,20 +9,20 @@
   --color-base-bg-3: #f1f5f9;
   --color-base-text: #000000;
   --color-base-text-2: #000000;
-  --color-logo-text: #a0a0a0;
-  --color-menu-text: inherit;
+  --color-logo-text: #ffffff;
+  --color-menu-text: #ffffff;
 }
 
 html[data-mode=dark] {
-  --color-primary-bg: #7d7d7d;
+  --color-primary-bg: #000000;
   --color-primary-bg-2: #5c5c5c;
   --color-primary-bg-3: #8a8a8a;
-  --color-primary-text: #fdfcf9;
+  --color-primary-text: #ffffff;
   --color-base-bg: #121212;
   --color-base-bg-2: #1e1e1e;
   --color-base-bg-3: #232323;
   --color-base-text: #ffffff;
-  --color-base-text-2: #d7d7d7;
+  --color-base-text-2: #ffffff;
   --color-logo-text: #ffffff;
   --color-menu-text: #F4F4F5;
 }
@@ -15155,7 +15155,7 @@ html[data-mode=dark] .hero .hero-text.hero-text-invert {
   font-weight: 500;
   font-family: "Source Code Pro", SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace;
   font-size: 20px;
-  color: #8a8a8a;
+  color: #000000;
 }
 .hero .hero-image img {
   max-width: 100%;

@@ -94,24 +94,24 @@ colors:
     base_bg_3: "#f1f5f9"
     base_text: "#000000"
     base_text_2: "#000000"
-    primary_bg: "#8a8a8a"        # Light Gray
+    primary_bg: "#000000"        # Light Gray
     primary_bg_2: "#8c8c8c"      # Slightly Darker Gray
     primary_bg_3: "#b0b0b0"      # Medium Gray
     primary_text: "#fdfcf9"
     header_text: "#000000"       # Light Gray
-    logo_text: "#a0a0a0"           # Light Blue
-    menu_text: "inherit"
+    logo_text: "#ffffff"           # Light Blue
+    menu_text: "#ffffff"
 
     # dark
     base_bg_dark: "#121212"
     base_bg_2_dark: "#1e1e1e"
     base_bg_3_dark: "#232323"
     base_text_dark: "#ffffff"
-    base_text_2_dark: "#d7d7d7"
-    primary_bg_dark: "#7d7d7d"   # Muted Gray
+    base_text_2_dark: "#ffffff"
+    primary_bg_dark: "#000000"   # Muted Gray
     primary_bg_2_dark: "#5c5c5c" # Darker Muted Gray
     primary_bg_3_dark: "#8a8a8a" # Medium Muted Gray
-    primary_text_dark: "#fdfcf9"
+    primary_text_dark: "#ffffff"
     logo_text_dark: "#ffffff"
     header_text_dark: "#ffffff"
     menu_text_dark: "inherit"
@@ -150,10 +150,10 @@ open_graph:
   meta_twitter_creator: "@zerostaticio"
 
 darkmode:
-  enable_dark_mode: true
+  enable_dark_mode: false
   show_dark_mode_toggle_in_header: false
-  show_dark_mode_toggle_in_bottom: true
-  show_dark_mode_toggle_in_mobile_menu: true
+  show_dark_mode_toggle_in_bottom: false
+  show_dark_mode_toggle_in_mobile_menu: false
 
 cookie_banner:
   enabled: true
