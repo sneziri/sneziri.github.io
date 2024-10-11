@@ -141,7 +141,7 @@ logo:
   show_logo_text_on_desktop: false
 
 header: 
-  fixed: false
+  fixed: true
 
 open_graph:
   meta_opengraph_type: "website"
@@ -156,7 +156,7 @@ darkmode:
   show_dark_mode_toggle_in_mobile_menu: false
 
 cookie_banner:
-  enabled: true
+  enabled: false
   show_manage_cookies_at_bottom: true
 
 analytics:
@@ -185,7 +185,7 @@ contact_form:
 
 menu: 
   show_dropdown_items_in_mobile_menu: false
-  show_social_media_in_mobile_menu: true
+  show_social_media_in_mobile_menu: false
 
 footer:
   enable_footer: true # show/hide the entire footer

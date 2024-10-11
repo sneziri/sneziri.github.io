@@ -1,6 +1,6 @@
 ---
 title: "Deckenkonstruktion"
-description: Unsere Deckenkonstruktionen im Trocken- und Leichtbau vereinen Flexibilität und Stil für moderne Innenräume."
+description: Unsere Deckenkonstruktionen im Trocken- und Leichtbau vereinen Flexibilität und Stil für moderne Innenräume.
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -19,8 +19,6 @@ hero:
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
----
-
 ---
 
 # Deckenkonstruktion im Trocken- und Leichtbau
