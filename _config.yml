@@ -111,10 +111,10 @@ colors:
     primary_bg_dark: "#000000"   # Muted Gray
     primary_bg_2_dark: "#5c5c5c" # Darker Muted Gray
     primary_bg_3_dark: "#8a8a8a" # Medium Muted Gray
-    primary_text_dark: "#000000"
+    primary_text_dark: "#ffffff"
     logo_text_dark: "#ffffff"
     header_text_dark: "#ffffff"
-    menu_text_dark: "inherit"
+    menu_text_dark: "#ffffff"
 
 fonts:
   use_google_fonts: false
