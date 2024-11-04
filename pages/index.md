@@ -39,7 +39,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/aboutus-2.png"
   heading: "Als erfahrene Gipserfirma bieten wir hochwertige Putz- und Stuckarbeiten für Innen- und Außenbereiche an."
   sub_heading: "Mit Präzision und handwerklichem Können sorgen wir dafür, dass Ihre Bauprojekte langlebig und ästhetisch ansprechend gestaltet werden."
   buttons:
