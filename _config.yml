@@ -102,20 +102,6 @@ colors:
     logo_text: "#ffffff"           # Light Blue
     menu_text: "#inherit"
 
-    # dark
-    base_bg_dark: "#121212"
-    base_bg_2_dark: "#1e1e1e"
-    base_bg_3_dark: "#232323"
-    base_text_dark: "#ffffff"
-    base_text_2_dark: "#ffffff"
-    primary_bg_dark: "#000000"   # Muted Gray
-    primary_bg_2_dark: "#5c5c5c" # Darker Muted Gray
-    primary_bg_3_dark: "#8a8a8a" # Medium Muted Gray
-    primary_text_dark: "#ffffff"
-    logo_text_dark: "#ffffff"
-    header_text_dark: "#ffffff"
-    menu_text_dark: "#ffffff"
-
 fonts:
   use_google_fonts: false
   google_fonts: "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Source+Code+Pro&family=Source+Sans+3:wght@300;400;700&display=swap"
